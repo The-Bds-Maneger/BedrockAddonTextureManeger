@@ -1,0 +1,6 @@
+reversions: "0.1"
+type: "plugin"
+versions:
+  - version: "0.9.1"
+    file: "./files/WorldEditor-0_9_1.php"
+    checksum: "sha256:2187966c0828177cb597e2c1dc75ca7e55f3dadd"

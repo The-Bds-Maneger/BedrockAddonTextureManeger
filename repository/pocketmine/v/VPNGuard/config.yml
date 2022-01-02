@@ -1,0 +1,6 @@
+reversions: "0.1"
+type: "plugin"
+versions:
+  - version: "1.0.5"
+    file: "./file/VPNGuard-1.0.5.phar"
+    checksum: "sha256:2988d2f7910784291731e6a0aac15e137fad8029"

@@ -1,0 +1,31 @@
+{
+  "name": "@the-bds-maneger/mod-texture-maneger",
+  "version": "0.1.0",
+  "description": "Mod and Texture Management for Minecraft.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node .test/index.js"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Bds-Maneger/Mod-Texture-Maneger.git"
+  },
+  "keywords": [
+    "mnecraft",
+    "bds-maneger-project"
+  ],
+  "author": "Sirherobrine23 <srherobrine20@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/The-Bds-Maneger/Mod-Texture-Maneger/issues"
+  },
+  "homepage": "https://github.com/The-Bds-Maneger/Mod-Texture-Maneger#readme",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "node-fetch": "^3.1.0"
+  }
+}

@@ -1,0 +1,6 @@
+reversions: "0.1"
+type: "texture"
+versions:
+  - version: "0.2"
+    checksum: "sha256:b5c9a9b9925c2f0b8a7f1e2c8b3d25c7f9c8d3b9f2d8f0c8d7f8c8b04b54f3d2"
+    url: "https://example.com/example-0_2.zip"
