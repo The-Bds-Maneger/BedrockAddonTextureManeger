@@ -1,0 +1,10 @@
+revision: v1
+type: plugin
+name: DynamicFT
+versions:
+  - version: 1.0.6
+    from: poggit_pmmp
+  - version: 1.0.5-dev2
+    from: poggit_pmmp
+  - version: 1.0.2
+    from: poggit_pmmp

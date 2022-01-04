@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: AdvancedFly
+versions:
+  - version: '1.8'
+    from: poggit_pmmp

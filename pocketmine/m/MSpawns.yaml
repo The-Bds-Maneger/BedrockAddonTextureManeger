@@ -1,0 +1,14 @@
+revision: v1
+type: plugin
+name: MSpawns
+versions:
+  - version: '2.2'
+    from: poggit_pmmp
+  - version: '2.1'
+    from: poggit_pmmp
+  - version: '2.0'
+    from: poggit_pmmp
+  - version: 1.5.0
+    from: poggit_pmmp
+  - version: '1.5'
+    from: poggit_pmmp

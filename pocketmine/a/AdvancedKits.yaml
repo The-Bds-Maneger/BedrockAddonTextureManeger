@@ -1,0 +1,16 @@
+revision: v1
+type: plugin
+name: AdvancedKits
+versions:
+  - version: 5.3.0
+    from: poggit_pmmp
+  - version: 5.2.2
+    from: poggit_pmmp
+  - version: 5.2.1
+    from: poggit_pmmp
+  - version: 5.1.0-9
+    from: poggit_pmmp
+  - version: 5.1.0-7
+    from: poggit_pmmp
+  - version: 5.1.0-6
+    from: poggit_pmmp

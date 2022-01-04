@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: PerWorldChat
+versions:
+  - version: '1.8'
+    from: poggit_pmmp

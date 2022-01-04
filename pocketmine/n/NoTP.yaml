@@ -1,0 +1,14 @@
+revision: v1
+type: plugin
+name: NoTP
+versions:
+  - version: 1.0.7
+    from: poggit_pmmp
+  - version: 1.0.6-5
+    from: poggit_pmmp
+  - version: 1.0.6-4
+    from: poggit_pmmp
+  - version: 1.0.6-3
+    from: poggit_pmmp
+  - version: 1.0.5
+    from: poggit_pmmp

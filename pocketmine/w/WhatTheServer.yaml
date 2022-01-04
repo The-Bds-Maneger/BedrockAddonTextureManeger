@@ -1,0 +1,12 @@
+revision: v1
+type: plugin
+name: WhatTheServer
+versions:
+  - version: 0.2.2
+    from: poggit_pmmp
+  - version: 0.2.1
+    from: poggit_pmmp
+  - version: 0.2.0
+    from: poggit_pmmp
+  - version: 0.1.5
+    from: poggit_pmmp

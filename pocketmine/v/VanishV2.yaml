@@ -1,0 +1,66 @@
+revision: v1
+type: plugin
+name: VanishV2
+versions:
+  - version: 3.0.2
+    from: poggit_pmmp
+  - version: '2.9'
+    from: poggit_pmmp
+  - version: '2.8'
+    from: poggit_pmmp
+  - version: '2.7'
+    from: poggit_pmmp
+  - version: '2.6'
+    from: poggit_pmmp
+  - version: '2.5'
+    from: poggit_pmmp
+  - version: '2.4'
+    from: poggit_pmmp
+  - version: '2.3'
+    from: poggit_pmmp
+  - version: '2.2'
+    from: poggit_pmmp
+  - version: '2.1'
+    from: poggit_pmmp
+  - version: '2.0'
+    from: poggit_pmmp
+  - version: '1.20'
+    from: poggit_pmmp
+  - version: '1.19'
+    from: poggit_pmmp
+  - version: '1.18'
+    from: poggit_pmmp
+  - version: '1.17'
+    from: poggit_pmmp
+  - version: '1.16'
+    from: poggit_pmmp
+  - version: '1.15'
+    from: poggit_pmmp
+  - version: '1.14'
+    from: poggit_pmmp
+  - version: '1.13'
+    from: poggit_pmmp
+  - version: '1.11'
+    from: poggit_pmmp
+  - version: '1.10'
+    from: poggit_pmmp
+  - version: '1.9'
+    from: poggit_pmmp
+  - version: '1.8'
+    from: poggit_pmmp
+  - version: '1.7'
+    from: poggit_pmmp
+  - version: '1.6'
+    from: poggit_pmmp
+  - version: '1.5'
+    from: poggit_pmmp
+  - version: '1.4'
+    from: poggit_pmmp
+  - version: '1.3'
+    from: poggit_pmmp
+  - version: '1.2'
+    from: poggit_pmmp
+  - version: '1.1'
+    from: poggit_pmmp
+  - version: '1.0'
+    from: poggit_pmmp

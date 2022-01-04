@@ -1,0 +1,10 @@
+revision: v1
+type: plugin
+name: MineReset
+versions:
+  - version: 3.2.0
+    from: poggit_pmmp
+  - version: 3.1.0
+    from: poggit_pmmp
+  - version: 3.0.2
+    from: poggit_pmmp

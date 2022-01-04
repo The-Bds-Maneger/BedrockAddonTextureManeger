@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: MegaBan
+versions:
+  - version: 1.2.2
+    from: poggit_pmmp

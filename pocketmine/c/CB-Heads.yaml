@@ -1,0 +1,8 @@
+revision: v1
+type: plugin
+name: CB-Heads
+versions:
+  - version: '3.1'
+    from: poggit_pmmp
+  - version: '3.0'
+    from: poggit_pmmp

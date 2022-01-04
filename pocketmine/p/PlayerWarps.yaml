@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: PlayerWarps
+versions:
+  - version: 1.0.0-BETA
+    from: poggit_pmmp

@@ -1,0 +1,16 @@
+revision: v1
+type: plugin
+name: LiveXYZ
+versions:
+  - version: 1.0.0
+    from: poggit_pmmp
+  - version: 0.7.0
+    from: poggit_pmmp
+  - version: 0.6.0-6-beta
+    from: poggit_pmmp
+  - version: 0.6.0-5-beta
+    from: poggit_pmmp
+  - version: 0.6.0-4-beta
+    from: poggit_pmmp
+  - version: 0.6.0-3-beta
+    from: poggit_pmmp

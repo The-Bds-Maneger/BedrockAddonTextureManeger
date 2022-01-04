@@ -1,0 +1,24 @@
+revision: v1
+type: plugin
+name: BetterBan
+versions:
+  - version: 4.0.2
+    from: poggit_pmmp
+  - version: 4.0.1
+    from: poggit_pmmp
+  - version: 4.0.0
+    from: poggit_pmmp
+  - version: 3.0.2-1
+    from: poggit_pmmp
+  - version: 3.0.2
+    from: poggit_pmmp
+  - version: 3.0.1
+    from: poggit_pmmp
+  - version: 3.0.0
+    from: poggit_pmmp
+  - version: 2.2.0
+    from: poggit_pmmp
+  - version: 2.1.0
+    from: poggit_pmmp
+  - version: 2.0.0
+    from: poggit_pmmp

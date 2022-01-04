@@ -1,0 +1,8 @@
+revision: v1
+type: plugin
+name: EnderPearlCooldown
+versions:
+  - version: 0.0.2
+    from: poggit_pmmp
+  - version: 0.0.1
+    from: poggit_pmmp

@@ -1,0 +1,36 @@
+revision: v1
+type: plugin
+name: MysteryCrate
+versions:
+  - version: 9.2.0
+    from: poggit_pmmp
+  - version: 9.1.1
+    from: poggit_pmmp
+  - version: 9.1.0
+    from: poggit_pmmp
+  - version: 9.0.0
+    from: poggit_pmmp
+  - version: 8.0.1
+    from: poggit_pmmp
+  - version: 8.0.0
+    from: poggit_pmmp
+  - version: 7.0.0
+    from: poggit_pmmp
+  - version: 6.5.0
+    from: poggit_pmmp
+  - version: 6.4.4
+    from: poggit_pmmp
+  - version: 6.4.3
+    from: poggit_pmmp
+  - version: 6.4.2
+    from: poggit_pmmp
+  - version: 6.4.1
+    from: poggit_pmmp
+  - version: 6.4.0
+    from: poggit_pmmp
+  - version: 6.3.0
+    from: poggit_pmmp
+  - version: 6.2.0
+    from: poggit_pmmp
+  - version: 6.0.0
+    from: poggit_pmmp

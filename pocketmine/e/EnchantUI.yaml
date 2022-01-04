@@ -1,0 +1,12 @@
+revision: v1
+type: plugin
+name: EnchantUI
+versions:
+  - version: '0.6'
+    from: poggit_pmmp
+  - version: '0.5'
+    from: poggit_pmmp
+  - version: '0.4'
+    from: poggit_pmmp
+  - version: '0.3'
+    from: poggit_pmmp

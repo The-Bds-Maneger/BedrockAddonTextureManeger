@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "pocketmine:find": "node scripts/Pocketmine_Find.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "node-fetch": "^3.1.0"
+  }
+}

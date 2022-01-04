@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: PeacefulSpawn
+versions:
+  - version: '1.2'
+    from: poggit_pmmp

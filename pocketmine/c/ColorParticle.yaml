@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: ColorParticle
+versions:
+  - version: 1.2.1
+    from: poggit_pmmp

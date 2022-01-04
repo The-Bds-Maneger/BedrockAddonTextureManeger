@@ -1,0 +1,8 @@
+revision: v1
+type: plugin
+name: theWarn
+versions:
+  - version: 1.3.1
+    from: poggit_pmmp
+  - version: 1.3.0
+    from: poggit_pmmp

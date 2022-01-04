@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: GeoBlock
+versions:
+  - version: 1.0-beta
+    from: poggit_pmmp

@@ -1,0 +1,16 @@
+revision: v1
+type: plugin
+name: ScoreboardAPI
+versions:
+  - version: 1.0.3
+    from: poggit_pmmp
+  - version: 1.0.2-1
+    from: poggit_pmmp
+  - version: 1.0.2
+    from: poggit_pmmp
+  - version: 1.0.1
+    from: poggit_pmmp
+  - version: 1.0.0
+    from: poggit_pmmp
+  - version: 0.1.0
+    from: poggit_pmmp

@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: JericoSystemisation
+versions:
+  - version: 1.0.0
+    from: poggit_pmmp

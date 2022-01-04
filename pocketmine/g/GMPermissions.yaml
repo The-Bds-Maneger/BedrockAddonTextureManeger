@@ -1,0 +1,18 @@
+revision: v1
+type: plugin
+name: GMPermissions
+versions:
+  - version: 1.2.6
+    from: poggit_pmmp
+  - version: 1.2.5-5
+    from: poggit_pmmp
+  - version: 1.2.5-4
+    from: poggit_pmmp
+  - version: 1.2.5-3
+    from: poggit_pmmp
+  - version: 1.2.5-2
+    from: poggit_pmmp
+  - version: 1.2.4
+    from: poggit_pmmp
+  - version: 1.2.2
+    from: poggit_pmmp

@@ -1,0 +1,26 @@
+revision: v1
+type: plugin
+name: PureEntitiesX
+versions:
+  - version: 0.7.0
+    from: poggit_pmmp
+  - version: 0.6.7
+    from: poggit_pmmp
+  - version: 0.6.6
+    from: poggit_pmmp
+  - version: 0.6.3
+    from: poggit_pmmp
+  - version: 0.6.2
+    from: poggit_pmmp
+  - version: 0.6.0
+    from: poggit_pmmp
+  - version: 0.4.1
+    from: poggit_pmmp
+  - version: 0.4.0
+    from: poggit_pmmp
+  - version: 0.2.8-3.dev3
+    from: poggit_pmmp
+  - version: 0.2.8-dev
+    from: poggit_pmmp
+  - version: 0.2.7
+    from: poggit_pmmp

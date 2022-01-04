@@ -1,0 +1,8 @@
+revision: v1
+type: plugin
+name: GitRollbacks
+versions:
+  - version: 1.0.0-beta3
+    from: poggit_pmmp
+  - version: 1.0.0-beta2
+    from: poggit_pmmp

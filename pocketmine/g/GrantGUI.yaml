@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: GrantGUI
+versions:
+  - version: 1.0.2
+    from: poggit_pmmp

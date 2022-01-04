@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: BlazinFly
+versions:
+  - version: 1.8.7
+    from: poggit_pmmp

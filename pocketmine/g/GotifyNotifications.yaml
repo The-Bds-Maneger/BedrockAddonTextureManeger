@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: GotifyNotifications
+versions:
+  - version: 0.0.12
+    from: poggit_pmmp

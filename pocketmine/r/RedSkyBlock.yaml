@@ -1,0 +1,22 @@
+revision: v1
+type: plugin
+name: RedSkyBlock
+versions:
+  - version: 5.0.1
+    from: poggit_pmmp
+  - version: 5.0.0
+    from: poggit_pmmp
+  - version: 3.1.1
+    from: poggit_pmmp
+  - version: 3.0.3
+    from: poggit_pmmp
+  - version: 2.0.3-ALPHA
+    from: poggit_pmmp
+  - version: 2.0.2-ALPHA
+    from: poggit_pmmp
+  - version: 2.0.1-ALPHA
+    from: poggit_pmmp
+  - version: 2.0.0-ALPHA
+    from: poggit_pmmp
+  - version: 1.0.0-ALPHA.1
+    from: poggit_pmmp

@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: freeze
+versions:
+  - version: 2.1.0
+    from: poggit_pmmp

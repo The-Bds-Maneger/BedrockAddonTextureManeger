@@ -1,0 +1,46 @@
+revision: v1
+type: plugin
+name: ScoreHud
+versions:
+  - version: 6.3.1
+    from: poggit_pmmp
+  - version: 6.3.0
+    from: poggit_pmmp
+  - version: 6.2.1
+    from: poggit_pmmp
+  - version: 6.2.0
+    from: poggit_pmmp
+  - version: 6.1.0
+    from: poggit_pmmp
+  - version: 6.0.1
+    from: poggit_pmmp
+  - version: 6.0.0
+    from: poggit_pmmp
+  - version: 5.2.0
+    from: poggit_pmmp
+  - version: 5.1.1
+    from: poggit_pmmp
+  - version: 5.1.0
+    from: poggit_pmmp
+  - version: 5.0.0
+    from: poggit_pmmp
+  - version: 4.0.0
+    from: poggit_pmmp
+  - version: 3.0.0
+    from: poggit_pmmp
+  - version: 2.0.0
+    from: poggit_pmmp
+  - version: 1.3.0
+    from: poggit_pmmp
+  - version: 1.2.0
+    from: poggit_pmmp
+  - version: 1.1.2
+    from: poggit_pmmp
+  - version: 1.1.1
+    from: poggit_pmmp
+  - version: 1.1.0
+    from: poggit_pmmp
+  - version: 1.0.1
+    from: poggit_pmmp
+  - version: 1.0.0
+    from: poggit_pmmp

@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: KillCounter
+versions:
+  - version: 0.1.1
+    from: poggit_pmmp

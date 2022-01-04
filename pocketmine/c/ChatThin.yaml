@@ -1,0 +1,10 @@
+revision: v1
+type: plugin
+name: ChatThin
+versions:
+  - version: 1.4.1
+    from: poggit_pmmp
+  - version: 1.4.0
+    from: poggit_pmmp
+  - version: 1.2.0
+    from: poggit_pmmp

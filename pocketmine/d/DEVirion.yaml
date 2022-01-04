@@ -1,0 +1,18 @@
+revision: v1
+type: plugin
+name: DEVirion
+versions:
+  - version: 1.2.8
+    from: poggit_pmmp
+  - version: 1.2.7
+    from: poggit_pmmp
+  - version: 1.2.6
+    from: poggit_pmmp
+  - version: 1.2.5-ALPHA12
+    from: poggit_pmmp
+  - version: 1.2.4
+    from: poggit_pmmp
+  - version: 1.2.3
+    from: poggit_pmmp
+  - version: 1.2.2
+    from: poggit_pmmp

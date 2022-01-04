@@ -1,0 +1,8 @@
+revision: v1
+type: plugin
+name: SeeDevice
+versions:
+  - version: 0.0.7
+    from: poggit_pmmp
+  - version: 0.0.6
+    from: poggit_pmmp

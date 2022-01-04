@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: ChatChannel
+versions:
+  - version: 2.0.1
+    from: poggit_pmmp

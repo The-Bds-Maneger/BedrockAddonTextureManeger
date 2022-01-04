@@ -1,0 +1,12 @@
+revision: v1
+type: plugin
+name: EconomyPShop
+versions:
+  - version: 2.0.4
+    from: poggit_pmmp
+  - version: 2.0.3
+    from: poggit_pmmp
+  - version: 2.0.2-6
+    from: poggit_pmmp
+  - version: 2.0.2-2
+    from: poggit_pmmp

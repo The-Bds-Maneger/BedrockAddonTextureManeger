@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: PortalsPE
+versions:
+  - version: 1.1.1
+    from: poggit_pmmp

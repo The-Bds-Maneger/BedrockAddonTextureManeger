@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: FootJob
+versions:
+  - version: 20.5.30
+    from: poggit_pmmp

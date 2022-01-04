@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: superBAR
+versions:
+  - version: 1.6.5-1
+    from: poggit_pmmp

@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: CellPE
+versions:
+  - version: 2.0.3
+    from: poggit_pmmp

@@ -1,0 +1,10 @@
+revision: v1
+type: plugin
+name: BossPlugin
+versions:
+  - version: '3.21'
+    from: poggit_pmmp
+  - version: '3.11'
+    from: poggit_pmmp
+  - version: '3.6'
+    from: poggit_pmmp

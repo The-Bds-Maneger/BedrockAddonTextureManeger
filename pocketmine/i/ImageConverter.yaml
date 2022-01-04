@@ -1,0 +1,12 @@
+revision: v1
+type: plugin
+name: ImageConverter
+versions:
+  - version: 2.3.0
+    from: poggit_pmmp
+  - version: 2.2.0
+    from: poggit_pmmp
+  - version: 1.1.0
+    from: poggit_pmmp
+  - version: 1.0.0
+    from: poggit_pmmp

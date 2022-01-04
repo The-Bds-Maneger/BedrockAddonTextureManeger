@@ -1,0 +1,12 @@
+revision: v1
+type: plugin
+name: Minion
+versions:
+  - version: 1.9.5
+    from: poggit_pmmp
+  - version: 1.9.1
+    from: poggit_pmmp
+  - version: 1.0.2
+    from: poggit_pmmp
+  - version: 1.0.0
+    from: poggit_pmmp

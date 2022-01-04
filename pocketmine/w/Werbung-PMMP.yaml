@@ -1,0 +1,8 @@
+revision: v1
+type: plugin
+name: Werbung-PMMP
+versions:
+  - version: 1.5.0
+    from: poggit_pmmp
+  - version: 1.4.0
+    from: poggit_pmmp

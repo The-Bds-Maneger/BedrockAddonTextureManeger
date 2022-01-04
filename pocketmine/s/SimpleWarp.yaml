@@ -1,0 +1,22 @@
+revision: v1
+type: plugin
+name: SimpleWarp
+versions:
+  - version: 4.0.1
+    from: poggit_pmmp
+  - version: 4.0.0
+    from: poggit_pmmp
+  - version: 3.3.8
+    from: poggit_pmmp
+  - version: 3.3.7
+    from: poggit_pmmp
+  - version: 3.3.6
+    from: poggit_pmmp
+  - version: 3.3.5
+    from: poggit_pmmp
+  - version: 3.3.4
+    from: poggit_pmmp
+  - version: 3.3.0
+    from: poggit_pmmp
+  - version: v3.2.0
+    from: poggit_pmmp

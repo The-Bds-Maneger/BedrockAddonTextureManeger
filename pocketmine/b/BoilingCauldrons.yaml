@@ -1,0 +1,10 @@
+revision: v1
+type: plugin
+name: BoilingCauldrons
+versions:
+  - version: 1.0.2-stable
+    from: poggit_pmmp
+  - version: 1.0.1-stable
+    from: poggit_pmmp
+  - version: 1.0.0-stable
+    from: poggit_pmmp

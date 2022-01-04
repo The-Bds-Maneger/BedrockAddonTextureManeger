@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: QuestPlugin
+versions:
+  - version: '3.1'
+    from: poggit_pmmp

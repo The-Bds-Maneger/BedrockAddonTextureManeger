@@ -1,0 +1,8 @@
+revision: v1
+type: plugin
+name: Gomoku
+versions:
+  - version: 0.7.0
+    from: poggit_pmmp
+  - version: 0.6.9
+    from: poggit_pmmp

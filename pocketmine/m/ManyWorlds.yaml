@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: ManyWorlds
+versions:
+  - version: 2.2.0
+    from: poggit_pmmp

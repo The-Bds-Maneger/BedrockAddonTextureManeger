@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: PiggyAuth
+versions:
+  - version: 3.0.0.19
+    from: poggit_pmmp

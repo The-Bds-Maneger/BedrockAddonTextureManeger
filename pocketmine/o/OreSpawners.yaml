@@ -1,0 +1,8 @@
+revision: v1
+type: plugin
+name: OreSpawners
+versions:
+  - version: 0.5.3
+    from: poggit_pmmp
+  - version: 0.5.2
+    from: poggit_pmmp

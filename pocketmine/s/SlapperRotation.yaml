@@ -1,0 +1,8 @@
+revision: v1
+type: plugin
+name: SlapperRotation
+versions:
+  - version: 1.2.2
+    from: poggit_pmmp
+  - version: 1.2.1
+    from: poggit_pmmp

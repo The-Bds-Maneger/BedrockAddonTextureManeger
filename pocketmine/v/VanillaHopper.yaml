@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: VanillaHopper
+versions:
+  - version: 1.3.0
+    from: poggit_pmmp

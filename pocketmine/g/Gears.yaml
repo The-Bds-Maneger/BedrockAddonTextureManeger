@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: Gears
+versions:
+  - version: 1.2-beta
+    from: poggit_pmmp

@@ -1,0 +1,8 @@
+revision: v1
+type: plugin
+name: MailPlugin
+versions:
+  - version: '3.5'
+    from: poggit_pmmp
+  - version: '3.2'
+    from: poggit_pmmp

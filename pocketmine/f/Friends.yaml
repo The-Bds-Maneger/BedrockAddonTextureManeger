@@ -1,0 +1,12 @@
+revision: v1
+type: plugin
+name: Friends
+versions:
+  - version: 1.0.7
+    from: poggit_pmmp
+  - version: 1.0.6
+    from: poggit_pmmp
+  - version: 1.0.5
+    from: poggit_pmmp
+  - version: 1.0.0
+    from: poggit_pmmp

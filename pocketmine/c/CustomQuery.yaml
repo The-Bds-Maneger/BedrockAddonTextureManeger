@@ -1,0 +1,18 @@
+revision: v1
+type: plugin
+name: CustomQuery
+versions:
+  - version: 1.1.3-BETA
+    from: poggit_pmmp
+  - version: 1.1.2-BETA
+    from: poggit_pmmp
+  - version: 1.1.1-BETA
+    from: poggit_pmmp
+  - version: 1.1.0-BETA
+    from: poggit_pmmp
+  - version: 1.0.2-ALPHA
+    from: poggit_pmmp
+  - version: 1.0.1-ALPHA
+    from: poggit_pmmp
+  - version: 1.0.0-ALPHA
+    from: poggit_pmmp

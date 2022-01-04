@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: TimeRanks
+versions:
+  - version: 2.1.1
+    from: poggit_pmmp

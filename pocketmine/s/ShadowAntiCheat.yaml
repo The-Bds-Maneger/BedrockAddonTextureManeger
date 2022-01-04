@@ -1,0 +1,8 @@
+revision: v1
+type: plugin
+name: ShadowAntiCheat
+versions:
+  - version: 3.6.5
+    from: poggit_pmmp
+  - version: 3.6.3
+    from: poggit_pmmp

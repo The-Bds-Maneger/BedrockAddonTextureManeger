@@ -1,0 +1,16 @@
+revision: v1
+type: plugin
+name: EconomySell
+versions:
+  - version: 2.0.11
+    from: poggit_pmmp
+  - version: 2.0.10
+    from: poggit_pmmp
+  - version: 2.0.7-5
+    from: poggit_pmmp
+  - version: 2.0.7-4
+    from: poggit_pmmp
+  - version: 2.0.7-3
+    from: poggit_pmmp
+  - version: 2.0.7-1.alpha8
+    from: poggit_pmmp

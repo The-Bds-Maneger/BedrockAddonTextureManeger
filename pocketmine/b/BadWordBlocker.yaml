@@ -1,0 +1,28 @@
+revision: v1
+type: plugin
+name: BadWordBlocker
+versions:
+  - version: 1.2.13
+    from: poggit_pmmp
+  - version: 1.2.12
+    from: poggit_pmmp
+  - version: 1.2.11
+    from: poggit_pmmp
+  - version: 1.2.10
+    from: poggit_pmmp
+  - version: 1.2.9
+    from: poggit_pmmp
+  - version: 1.2.8
+    from: poggit_pmmp
+  - version: 1.2.7
+    from: poggit_pmmp
+  - version: 1.2.6
+    from: poggit_pmmp
+  - version: 1.2.3
+    from: poggit_pmmp
+  - version: 1.2.1
+    from: poggit_pmmp
+  - version: 1.2.0
+    from: poggit_pmmp
+  - version: 1.0.2
+    from: poggit_pmmp

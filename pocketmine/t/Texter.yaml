@@ -1,0 +1,84 @@
+revision: v1
+type: plugin
+name: Texter
+versions:
+  - version: 4.0.7
+    from: poggit_pmmp
+  - version: 4.0.6
+    from: poggit_pmmp
+  - version: 4.0.5
+    from: poggit_pmmp
+  - version: 4.0.4
+    from: poggit_pmmp
+  - version: 4.0.3
+    from: poggit_pmmp
+  - version: 4.0.2
+    from: poggit_pmmp
+  - version: 4.0.1
+    from: poggit_pmmp
+  - version: 3.4.14
+    from: poggit_pmmp
+  - version: 3.4.13
+    from: poggit_pmmp
+  - version: 3.4.12
+    from: poggit_pmmp
+  - version: 3.4.10
+    from: poggit_pmmp
+  - version: 3.4.9
+    from: poggit_pmmp
+  - version: 3.4.8
+    from: poggit_pmmp
+  - version: 3.4.7
+    from: poggit_pmmp
+  - version: 3.4.6
+    from: poggit_pmmp
+  - version: 3.4.5
+    from: poggit_pmmp
+  - version: 3.4.4
+    from: poggit_pmmp
+  - version: 3.4.3
+    from: poggit_pmmp
+  - version: 3.4.2
+    from: poggit_pmmp
+  - version: 3.4.1
+    from: poggit_pmmp
+  - version: 3.4.0
+    from: poggit_pmmp
+  - version: 3.2.1
+    from: poggit_pmmp
+  - version: 3.2.0
+    from: poggit_pmmp
+  - version: 3.1.0
+    from: poggit_pmmp
+  - version: 3.0.8
+    from: poggit_pmmp
+  - version: 3.0.7
+    from: poggit_pmmp
+  - version: 3.0.6
+    from: poggit_pmmp
+  - version: 3.0.5
+    from: poggit_pmmp
+  - version: 3.0.4
+    from: poggit_pmmp
+  - version: 3.0.3
+    from: poggit_pmmp
+  - version: 3.0.2
+    from: poggit_pmmp
+  - version: 2.4.3
+    from: poggit_pmmp
+  - version: 2.4.1
+    from: poggit_pmmp
+  - version: 2.3.4
+    from: poggit_pmmp
+  - version: 2.3.3
+    from: poggit_pmmp
+  - version: 2.3.2
+    from: poggit_pmmp
+  - version: 2.3.0
+    from: poggit_pmmp
+  - version: 2.2.6-11
+    from: poggit_pmmp
+  - version: 2.2.6
+    from: poggit_pmmp
+  - version: 2.2.5
+    from: poggit_pmmp

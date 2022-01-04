@@ -1,0 +1,8 @@
+revision: v1
+type: plugin
+name: MyMoney
+versions:
+  - version: empty-version
+    from: poggit_pmmp
+  - version: 0.1.0-alpha
+    from: poggit_pmmp
