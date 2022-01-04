@@ -29,6 +29,7 @@ for (const { name, version } of PluginsJsonPoggit) {
 }
 
 if (fs.existsSync(path.resolve(__dirname, "../pocketmine"))) fs.rmSync(path.resolve(__dirname, "../pocketmine"), { recursive: true });
+console.log(PluginsObject);
 for (let Lete of Object.keys(PluginsObject)) {
   if (!(fs.existsSync(path.resolve(__dirname, "../pocketmine", Lete)))) fs.mkdirSync(path.resolve(__dirname, "../pocketmine", Lete), { recursive: true });
   for (let PluginName of Object.keys(PluginsObject[Lete])) {

@@ -1,0 +1,16 @@
+on:
+  push:
+    branches:
+      - main
+jobs:
+  pocketmine:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2.5.1
+        with:
+          registry-url: https://registry.npmjs.org/
+          node-version: "16.x"
+      - run: npm ci
+      - run: npm run pocketmine:find
