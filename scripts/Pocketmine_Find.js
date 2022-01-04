@@ -35,7 +35,8 @@ for (let Lete of Object.keys(PluginsObject)) {
   for (let PluginName of Object.keys(PluginsObject[Lete])) {
     const PluginJson = PluginsObject[Lete][PluginName];
     console.log(`PocketMine-MP Plugin: ${Lete}/${PluginName}`);
-    fs.writeFileSync(path.resolve(__dirname, "../pocketmine", Lete, PluginName + ".yaml"), js_yaml.dump(PluginJson));
+    fs.mkdirSync(path.resolve(__dirname, "../pocketmine", Lete, PluginName), { recursive: true });
+    fs.writeFileSync(path.resolve(__dirname, "../pocketmine", Lete, PluginName, "config.yaml"), js_yaml.dump(PluginJson));
   }
 }
 // Script
