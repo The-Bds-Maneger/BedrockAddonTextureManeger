@@ -2,6 +2,8 @@ revision: v1
 type: plugin
 name: NoAdvertisings
 versions:
+  - version: 0.0.4
+    from: poggit_pmmp
   - version: 0.0.3
     from: poggit_pmmp
   - version: 0.0.2
