@@ -1,10 +1,13 @@
+name: Find Versions to Pocketmine
 on:
+  schedule:
+    - cron: 0 */2 * * *
   push:
     branches:
       - main
 jobs:
   pocketmine:
-    name: Test
+    name: Find Version to Pocketmine
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
