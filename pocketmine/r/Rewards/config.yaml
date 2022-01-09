@@ -2,6 +2,8 @@ revision: v1
 type: plugin
 name: Rewards
 versions:
+  - version: '5.0'
+    from: poggit_pmmp
   - version: '4.0'
     from: poggit_pmmp
   - version: '3.0'
