@@ -1,0 +1,6 @@
+revision: v1
+type: plugin
+name: JailMate
+versions:
+  - version: 1.1.7
+    from: poggit_pmmp

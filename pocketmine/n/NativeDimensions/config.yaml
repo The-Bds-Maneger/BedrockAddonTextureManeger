@@ -2,6 +2,8 @@ revision: v1
 type: plugin
 name: NativeDimensions
 versions:
+  - version: 1.0.0-beta5
+    from: poggit_pmmp
   - version: 1.0.0-beta4
     from: poggit_pmmp
   - version: 1.0.0-beta3
