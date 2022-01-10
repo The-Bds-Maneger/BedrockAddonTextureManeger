@@ -2,6 +2,8 @@ revision: v1
 type: plugin
 name: Mineflow
 versions:
+  - version: 2.6.1
+    from: poggit_pmmp
   - version: 2.6.0
     from: poggit_pmmp
   - version: 2.5.2
