@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: AdvancedJobs
-versions:
-  - version: '0.2'
-    from: poggit_pmmp

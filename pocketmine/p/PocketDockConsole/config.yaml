@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: PocketDockConsole
-versions:
-  - version: 0.0.15
-    from: poggit_pmmp

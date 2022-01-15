@@ -1,8 +1,0 @@
-revision: v1
-type: plugin
-name: KygekFarmlandDecay
-versions:
-  - version: 1.0.1
-    from: poggit_pmmp
-  - version: 1.0.0
-    from: poggit_pmmp

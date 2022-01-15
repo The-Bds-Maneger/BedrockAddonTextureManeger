@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: ResourcePackToolsPlugin
-versions:
-  - version: 2.2.0
-    from: poggit_pmmp

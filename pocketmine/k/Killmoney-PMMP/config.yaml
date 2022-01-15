@@ -1,8 +1,0 @@
-revision: v1
-type: plugin
-name: Killmoney-PMMP
-versions:
-  - version: 1.0.3
-    from: poggit_pmmp
-  - version: 1.0.2-beta
-    from: poggit_pmmp

@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: TempRanks
-versions:
-  - version: 0.6.9
-    from: poggit_pmmp

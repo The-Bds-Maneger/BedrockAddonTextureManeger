@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: BlazinVanish
-versions:
-  - version: 1.0.4
-    from: poggit_pmmp

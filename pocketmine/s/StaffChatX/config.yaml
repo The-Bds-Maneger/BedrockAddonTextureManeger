@@ -1,8 +1,0 @@
-revision: v1
-type: plugin
-name: StaffChatX
-versions:
-  - version: 1.0.1-alpha
-    from: poggit_pmmp
-  - version: 1.0-alpha
-    from: poggit_pmmp

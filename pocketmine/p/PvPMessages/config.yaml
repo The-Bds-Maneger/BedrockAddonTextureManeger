@@ -1,8 +1,0 @@
-revision: v1
-type: plugin
-name: PvPMessages
-versions:
-  - version: 1.7.0
-    from: poggit_pmmp
-  - version: 1.6.9
-    from: poggit_pmmp

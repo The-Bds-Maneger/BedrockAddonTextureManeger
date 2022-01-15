@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: ItemStylus
-versions:
-  - version: 0.0.3
-    from: poggit_pmmp

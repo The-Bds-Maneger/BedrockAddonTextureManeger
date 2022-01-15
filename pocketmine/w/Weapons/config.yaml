@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: Weapons
-versions:
-  - version: 1.12.0
-    from: poggit_pmmp

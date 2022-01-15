@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: FunctionPacks
-versions:
-  - version: 1.0.1
-    from: poggit_pmmp

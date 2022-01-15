@@ -1,8 +1,0 @@
-revision: v1
-type: plugin
-name: BanWarn
-versions:
-  - version: 1.2.3
-    from: poggit_pmmp
-  - version: 1.2.2
-    from: poggit_pmmp

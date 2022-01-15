@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: WarpUI
-versions:
-  - version: 3.3.1
-    from: poggit_pmmp

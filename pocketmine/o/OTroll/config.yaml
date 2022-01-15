@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: OTroll
-versions:
-  - version: 1.0.0-alpha
-    from: poggit_pmmp

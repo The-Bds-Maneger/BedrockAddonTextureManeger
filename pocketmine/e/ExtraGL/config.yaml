@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: ExtraGL
-versions:
-  - version: '1.4'
-    from: poggit_pmmp

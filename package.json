@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "pocketmine:find": "node scripts/Pocketmine_Find.js"
+    "prettify": "exit 1"
   },
   "dependencies": {
     "js-yaml": "^4.1.0",

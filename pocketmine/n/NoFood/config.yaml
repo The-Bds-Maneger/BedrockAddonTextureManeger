@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: NoFood
-versions:
-  - version: 0.0.1
-    from: poggit_pmmp

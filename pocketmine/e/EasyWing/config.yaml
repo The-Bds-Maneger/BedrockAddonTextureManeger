@@ -1,8 +1,0 @@
-revision: v1
-type: plugin
-name: EasyWing
-versions:
-  - version: 1.0.5
-    from: poggit_pmmp
-  - version: 1.0.3
-    from: poggit_pmmp

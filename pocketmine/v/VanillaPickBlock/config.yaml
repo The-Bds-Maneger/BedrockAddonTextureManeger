@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: VanillaPickBlock
-versions:
-  - version: 1.1.0
-    from: poggit_pmmp

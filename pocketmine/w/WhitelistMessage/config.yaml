@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: WhitelistMessage
-versions:
-  - version: 1.0.0
-    from: poggit_pmmp

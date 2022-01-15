@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: BetterFlight
-versions:
-  - version: 1.0.0
-    from: poggit_pmmp

@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: DailyStats
-versions:
-  - version: '2.2'
-    from: poggit_pmmp

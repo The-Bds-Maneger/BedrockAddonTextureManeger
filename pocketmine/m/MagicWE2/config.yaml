@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: MagicWE2
-versions:
-  - version: 10.2.0
-    from: poggit_pmmp

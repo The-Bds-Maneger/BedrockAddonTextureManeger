@@ -1,8 +1,0 @@
-revision: v1
-type: plugin
-name: Replay
-versions:
-  - version: 420.69-BETA-69
-    from: poggit_pmmp
-  - version: 4.20.69-ALPHA-69
-    from: poggit_pmmp

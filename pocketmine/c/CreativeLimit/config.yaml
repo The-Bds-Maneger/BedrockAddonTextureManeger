@@ -1,6 +1,0 @@
-revision: v1
-type: plugin
-name: CreativeLimit
-versions:
-  - version: '1.2'
-    from: poggit_pmmp
